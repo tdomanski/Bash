@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# AUTOR: Tomir Domański 305005
+# Student Fizyki Medycznej, Fizyka Techniczna
+# Politechnika Warszawska
+
 # Kolory do szybszego odczytywania komunikatow - ANSI escape codes
 GREEN=$'\e[0;32m'
 RED=$'\e[0;31m'
